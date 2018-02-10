@@ -1,0 +1,1 @@
+# SMKRepo-specs
